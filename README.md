@@ -10,7 +10,11 @@ The file structure is as follows:
 
 
 Future contributors:
+
 Please keep the files in the appropriate folders, such as;
+
 pythons scripts in "scripts" folder,
+
 data files in the "data_files" folder,
+
 documents in "documents" folder. 
